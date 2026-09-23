@@ -17,6 +17,6 @@
 [submodule "Unity"]
 	path = Unity
 	url = https://github.com/ThrowTheSwitch/Unity
-[submodule "lib/Unity"]
-	path = lib/Unity
+[submodule "lib/unity"]
+	path = lib/unity
 	url = https://github.com/ThrowTheSwitch/Unity
